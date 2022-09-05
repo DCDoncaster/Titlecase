@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Titlecase:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Titlecase_jar</output-path>
+    <root id="archive" name="Titlecase.jar">
+      <element id="module-output" name="Titlecase" />
+    </root>
+  </artifact>
+</component>
